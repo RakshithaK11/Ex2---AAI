@@ -1,7 +1,7 @@
-## Name:
-## Enter Register No.
-## Experiment No:
-## Date
+## Name: Rakshitha K
+## Enter Register No. 212223110039
+## Experiment No: 2
+## Date:
 Implementation of Exact Inference Method of Bayesian Network
 
 ## Aim:
